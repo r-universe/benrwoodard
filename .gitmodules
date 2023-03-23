@@ -8,3 +8,8 @@
 	url = https://github.com/benrwoodard/adobeanalyticsr
 	shallow = true
 	registered = true
+[submodule "cjar"]
+	path = cjar
+	url = https://github.com/cran/cjar
+	shallow = true
+	registered = true
