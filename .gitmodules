@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "adobeanalyticsr"]
 	path = adobeanalyticsr
 	url = https://github.com/benrwoodard/adobeanalyticsr
-	shallow = true
-	registered = true
 [submodule "cjar"]
 	path = cjar
 	url = https://github.com/cran/cjar
-	shallow = true
-	registered = true
